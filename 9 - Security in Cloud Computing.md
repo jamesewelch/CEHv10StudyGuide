@@ -13,7 +13,7 @@
     - Provides ability to develop without having to worry about hardware or software
   - **Software as a Service** (SaaS)
     - Provider supplies on-demand applications to subscribers
-    - Offloads the need for patch management, compatability and version control
+    - Offloads the need for patch management, compatibility and version control
 - **Deployment Models**
   - **Public Cloud** - services provided over a network that is open for public to use
   - **Private Cloud** - cloud solely for use by one tenant; usually done in larger organizations
@@ -21,10 +21,10 @@
   - **Hybrid Cloud** - a composition of two or more cloud deployment models
 - **NIST Cloud Architecture**
   - **Cloud Carrier** - organization with responsibility of transferring data; akin to power distributor for electric grid
-  - **Cloud Consumer** - aquires and uses cloud products and services
+  - **Cloud Consumer** - acquires and uses cloud products and services
   - **Cloud Provider** - purveyor of products and services
-  - **Cloud Broker** - manages use, performance and delivery of services as well as relationships betwen providers and subscribers
-  - **Cloud Auditor** - independent assor of cloud service an security controls
+  - **Cloud Broker** - manages use, performance and delivery of services as well as relationships between providers and subscribers
+  - **Cloud Auditor** - independent assessor of cloud service and security controls
 - **FedRAMP** - regulatory effort regarding cloud computing
 - **PCI DSS** - deals with debit and credit cards, but also has a cloud SIG
 
@@ -54,6 +54,6 @@
 - Unknown risk profiles - subscribers simply don't know what security provisions are made int he background
 - Others include malicious insiders, inadequate design and DDoS
 - **Wrapping Attack** - SOAP message intercepted and data in envelope is changed and sent/replayed
-- **Session riding** - CSRF under a diferent name; deals with cloud services instead of traditional data centers
+- **Session riding** - CSRF under a different name; deals with cloud services instead of traditional data centers
 - **Side Channel Attack** - using  an existing VM on the same physical host to attack another
   - This is more broadly defined as using something other than the direct interface to attack a system
